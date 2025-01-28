@@ -1,1 +1,1 @@
-# exerc-cio-criar-reposit-rio
+# exerccio-criar-repositrio
